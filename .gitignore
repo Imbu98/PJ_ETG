@@ -42,6 +42,9 @@
 *.VC.opendb
 .vsconfig
 
+# rider
+*.idea
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
